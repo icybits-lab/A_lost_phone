@@ -35,4 +35,8 @@ Discord: IcyBits
 -Thats all for now-
 
 ### Don't do politics and drugs
--
+
+# Update
+
+### [PROJECT ABANDONED]
+There is really no point in working on this. This project was a just a test project from when I learned coding. If I ever make a game with a phone inside of a phone interface, I suppose I can do it. But there is no future plan for this project.
