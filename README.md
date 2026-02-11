@@ -1,6 +1,6 @@
 # A_lost_phone
 
-A small project made by IcyyBits. 📖 
+A small project made by icybits-lab. 📖 
 -
 click [here](https://icybits-lab.github.io/A_lost_phone) to run the page
 
